@@ -1,0 +1,61 @@
+Playfair Cipher
+Output 
+keytext : HELLO
+Plaintext : MONKEYDLUFFY
+Cipher Text :NLPMOWMDTGNO
+
+Vigenere Cipher
+
+Output
+Original Message : LUFFY
+Key :ASK
+New Generated Key : ASKAS
+Encrypted Message : LMPFQ
+Decrypted Message : LUFFY
+
+Hill Cipher
+
+Enter 2*2 matrix for key
+
+3 3
+4 5
+
+Enter a 2 letter string : LU
+Encrypted string is :PO
+
+Inverse matrix is 
+1.666666    -1
+-1.333333   1
+
+Decrypted string is: LU
+
+Vernam Cipher
+Enter the Message : LUFFY
+Enter the Key : DATA
+Encrypted Message : OUYFB
+Decrypted Message : LUFFY
+
+Railfence Cipher
+
+Enter the input string : MONKEYDLUFFY
+Cipher text after applying Railfence
+MFOFYNUKLEDY
+text after Decryption : MONKEYDLUFFY
+
+Primitive roots 
+
+Primitive root of 17 is 3 5 6 7 10 11 12 14
+
+
+miller rabin 
+Enter integer to text primality :
+23 
+23 is  prime 
+
+
+Multiplicative Inverse 
+
+Change A and M in code A = 5 M =11
+
+Output 
+5
